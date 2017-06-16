@@ -10,5 +10,11 @@
             ],
             "css": ["style.css"]
         }
-    ]
+    ],
+    "applications": {
+        "gecko": {
+            "id": "twitter-disable-round@example.org",
+            "strict_min_version": "46.0"
+        }
+    }
 }
