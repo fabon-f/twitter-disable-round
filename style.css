@@ -32,6 +32,6 @@
     padding: 8px 10px;
 }
 
-.RichEditor.is-fakeFocus {
+.RichEditor.is-fakeFocus, .RichEditor.is-fakeFocus ~ .TweetBoxAttachments {
     box-shadow: none !important;
 }
