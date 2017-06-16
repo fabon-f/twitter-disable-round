@@ -35,3 +35,15 @@
 .RichEditor.is-fakeFocus, .RichEditor.is-fakeFocus ~ .TweetBoxAttachments {
     box-shadow: none !important;
 }
+
+.MomentCapsuleSummary .MomentUserByline-avatar {
+    border-radius: 2px !important;
+}
+
+.MomentCapsuleCover .MomentUserByline-avatar, .MomentCapsuleItemTweet--withText .MomentUserByline-avatar {
+    border-radius: 4px !important;
+}
+
+.avatar.size24 {
+    border-radius: 2px !important;
+}
