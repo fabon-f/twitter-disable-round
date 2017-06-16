@@ -9,6 +9,10 @@
                 "https://*.twitter.com/*"
             ],
             "css": ["style.css"]
+        },
+        {
+            "matches": ["https://tweetdeck.twitter.com/*"],
+            "css": ["tweetdeck.css"]
         }
     ]
 }
