@@ -1,3 +1,5 @@
+/*! twitter-disable-round | MIT License | github.com/hinamiyagk/twitter-disable-round */
+
 .avatar, .ProfileCard-avatarImage {
     border-radius: 5px !important;
 }
