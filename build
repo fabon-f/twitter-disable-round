@@ -1,0 +1,2 @@
+#!/bin/sh
+zip -R twitter-disable-round.zip manifest.json style.css README.md LICENSE
