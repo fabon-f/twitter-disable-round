@@ -2,11 +2,14 @@
 
 やたらめったら角を丸くするデザイン変更がウザいので、デザイン変更自体は受け入れつつ角丸等を無効化します。
 
+# インストール
+
+Firefox: https://addons.mozilla.org/ja/firefox/addon/twitter-disable-round/
+
 # サポートしているサイト
 
 * Twitter Web
-
-TweetDeckは未サポートですが、すぐに対応する予定です。(現時点でも、部分的に対応しています)
+* TweetDeck
 
 # ライセンス
 
