@@ -47,3 +47,11 @@
 .avatar.size24 {
     border-radius: 2px !important;
 }
+
+.Gallery.is-tweetless .Gallery-media {
+    border-radius: 6px !important;
+}
+
+.Gallery.is-tweetless .Gallery-content {
+    border-radius: 7px !important;
+}
