@@ -8,7 +8,8 @@
             "matches": [
                 "https://*.twitter.com/*"
             ],
-            "css": ["style.css"]
+            "css": ["style.css"],
+            "run_at": "document_start"
         }
     ],
     "applications": {
